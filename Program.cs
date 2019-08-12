@@ -8,9 +8,9 @@ namespace KeyFile
     {
         static void Main(string[] args)
         {
-            Key key = new Key("","","","");
-            FileInput fip = new FileInput();
-            Console.WriteLine("Hello World!");
+            // Key key = new Key("","","","");
+            // FileInput fip = new FileInput();
+            // Console.WriteLine("Hello World!");
         }
 
         
